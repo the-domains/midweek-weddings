@@ -1,0 +1,28 @@
+name: Midweek Weddings
+favicon: null
+layout_spectrum: 0.9486043939832598
+typography_spectrum: 0.8072738996706903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.44040727824904025
+  lightness: 0.6391165391542017
+  saturation: 0.659863026579842
+  rhythmicContrast: 0.6368753793649375
+purpose: []
